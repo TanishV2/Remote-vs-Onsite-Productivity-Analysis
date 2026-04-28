@@ -1,6 +1,6 @@
 ---
 
-# 📊 Workforce Productivity Analytics Dashboard
+# 📊 Remote vs Onsite Productivity Analytics Dashboard
 
 An interactive **Streamlit dashboard** for analyzing workforce productivity, comparing performance across work modes, and generating actionable insights through data visualization.
 
